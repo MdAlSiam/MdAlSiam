@@ -76,6 +76,21 @@
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="ASP.NET" width="40" height="40"/> </a>
   <!-- AngularJS -->
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> </a>
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"/> </a>
+  <!-- Jasmine -->
+  <a href="https://jasmine.github.io/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="Jasmine" width="40" height="40"/> </a>
+  <!-- Java -->
+  <a href="https://www.java.com/en/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a>
+  <!-- JQuery -->
+  <a href="https://jquery.com/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery" width="40" height="40"/> </a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+  <!-- Latex -->
+  <a href="https://www.latex-project.org/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="40" height="40"/> </a>
+  
 </p>
 
 <h3 align="center">Reach Me:</h3>
