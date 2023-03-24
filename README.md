@@ -11,7 +11,7 @@
   - 👨🏻‍💻 I am currently working on improving my mental and physical health, seif improvement, personal growth and exploring opportunities <br> 
   - 🤔 I’m looking for cool friends and connections <br>
   - 💬 <a href="mailto:md.al.siam.008@gmail.com" target="_blank"> Contact me </a><br>
-  - ☕️ You can buy me Coffee without my consent, just let me know via mail or social network. <br>
+  - ☕️ You can buy me Coffee without my consent, just let me know via mail or social network <br>
 </div>  
 <br/>
 
