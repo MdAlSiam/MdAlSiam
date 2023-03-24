@@ -1,6 +1,6 @@
 ![alt text](<Will make a banner and post the link here> "Siam's GitHub Banner")
-  
-## <div align="center">
+
+<div align="center">
   👋🏼 Hi there, nice to see you here! <br> 
   🙋🏻‍♂️ This is Siam, a Software Engineer, Competitive Programmer, Data Science and Deep Learning Enthusiast <br>
   👨🏻‍💻 I am currently working on my mental and physical health, seif improvement, language skill, growth and exploring opportunities
@@ -14,8 +14,8 @@
 <br/>  
 
 <div align="center"> 
-  - 👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
-  - 🤔 I’m looking for help with free SwiftUI learning resources <br>
+  - 👨🏻‍💻 I am currently working on my mental and physical health, seif improvement, language skill, growth and exploring opportunities <br> 
+  - 🤔 I’m looking for new friends <br>
   - 💬 <a href="mailto:md.al.siam.008@gmail.com" target="_blank"> Contact me </a><br>
   - ☕️ You can buy me Coffee without my consent! Just let me know via mail or social network. <br>
 </div>  
