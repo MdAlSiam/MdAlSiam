@@ -1,6 +1,6 @@
 ![](<Will make a banner and post the link here> "Siam's GitHub Banner")
 
-## <div align="center"> 👋🏼 Hi there, nice to see you here! <br>🙋🏻‍♂️ This is Siam, a Software Engineer, Competitive Programmer, Data Science and Deep Learning Enthusiast <br>👨🏻‍💻 I am currently working on my mental and physical health, seif improvement, language skill, growth and exploring opportunities</div>  <br/>
+## <div align="center"> 👋🏼 Hi there, nice to see you here! <br>🙋🏻‍♂️ This is Siam, a Software Engineer, Competitive Programmer, Data Science and Deep Learning Enthusiast <br>👨🏻‍💻 I am currently working on improving my mental and physical health, seif improvement, personal growth and exploring opportunities</div>  <br/>
 
 <div align="center">
   I am a technoid person passionate about programming proble solving, software engineering, full stack web development, data insights, artifical intelligence, fascinating technological affairs and latest technological innovations. Studied Computer Science and Engineering at <a href="https://www.ruet.ac.bd/" target="_blank">Rajshahi University of Engineering and Technology (RUET)</a>. I love to learn and explore new technologies and want to grow myself as a world class engineer. 
@@ -8,7 +8,7 @@
 <br/>  
 
 <div align="center"> 
-  - 👨🏻‍💻 I am currently working on improving my mental and physical health, seif improvement, personal growth, language skill and exploring opportunities <br> 
+  - 👨🏻‍💻 I am currently working on improving my mental and physical health, seif improvement, personal growth and exploring opportunities <br> 
   - 🤔 I’m looking for cool friends and connections <br>
   - 💬 <a href="mailto:md.al.siam.008@gmail.com" target="_blank"> Contact me </a><br>
   - ☕️ You can buy me Coffee without my consent, just let me know via mail or social network. <br>
