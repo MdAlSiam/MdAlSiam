@@ -1,10 +1,11 @@
 ![alt text](<Will make a banner and post the link here> "Siam's GitHub Banner")
 
-<div align="center">
+##<div align="center">
   👋🏼 Hi there, nice to see you here! <br> 
   🙋🏻‍♂️ This is Siam, a Software Engineer, Competitive Programmer, Data Science and Deep Learning Enthusiast <br>
   👨🏻‍💻 I am currently working on my mental and physical health, seif improvement, language skill, growth and exploring opportunities
 </div>  
+<br/>
 
 <div align="center">
   I am a technoid person passionate about programming proble solving, software engineering, full stack web development, data insights, artifical intelligence and fascinating technological affairs and innovations. 
