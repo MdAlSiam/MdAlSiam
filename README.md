@@ -98,8 +98,17 @@
 <a href="https://www.linkedin.com/in/mdalsiam/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.facebook.com/md.al.siam.008/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MdAlSiam&&style=flat-square" align="center" />
+</div>  
 
-**MD. AL SIAM**
+<div>
+  **MD. AL SIAM**
 **Location:** Dhaka, Bangladesh
 **Email:** md.al.siam.008@gmail.com
 **Phone:** +8801750839878
@@ -194,13 +203,4 @@
 - *Abu Sayeed*
   - Assistant Professor, Department of Computer Science & Engineering, RUET, Bangladesh
   - *Email:* abusayeed.cse@gmail.com
-
-<a href="https://www.facebook.com/md.al.siam.008/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MdAlSiam&&style=flat-square" align="center" />
-</div>  
-
+</div>
