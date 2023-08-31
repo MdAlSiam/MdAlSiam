@@ -108,12 +108,14 @@
 </div>  
 
 <div>
+  <div>
   **MD. AL SIAM**
-**Location:** Dhaka, Bangladesh
-**Email:** md.al.siam.008@gmail.com
-**Phone:** +8801750839878
-**LinkedIn:** mdalsiam
-**GitHub:** MdAlSiam
+  **Location:** Dhaka, Bangladesh
+  **Email:** md.al.siam.008@gmail.com
+  **Phone:** +8801750839878
+  **LinkedIn:** mdalsiam
+  **GitHub:** MdAlSiam
+  </div>
 
 **EDUCATION**
 - *B.Sc in Computer Science & Engineering*
