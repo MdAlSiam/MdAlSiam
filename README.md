@@ -109,12 +109,11 @@
 
 <div>
   <div>
-  **MD. AL SIAM**
-  **Location:** Dhaka, Bangladesh
-  **Email:** md.al.siam.008@gmail.com
-  **Phone:** +8801750839878
-  **LinkedIn:** mdalsiam
-  **GitHub:** MdAlSiam
+  **MD. AL SIAM**<br/>
+  **Location:** Dhaka, Bangladesh<br/>
+  **Email:** md.al.siam.008@gmail.com<br/>
+  **LinkedIn:** mdalsiam<br/>
+  **GitHub:** MdAlSiam<br/>
   </div>
 
 **EDUCATION**
@@ -194,15 +193,7 @@
 - Assistant Finance Secretary, RUET Greater Mymensingh Association, RUET (April 2018 - May 2019)
 - Organizing Volunteer, RUET CSE Fest 2K22 Inter University Programming Contest (2022)
 
-**STANDARDIZED TEST SCORES**
-- GRE: 305 (Quantitative Reasoning: 160, Verbal Reasoning: 145, Analytical Writing: 3.5)
-
 **LANGUAGES**
 - English: Full Professional Proficiency
 - Bengali: Native or Bilingual Proficiency
-
-**REFERENCE**
-- *Abu Sayeed*
-  - Assistant Professor, Department of Computer Science & Engineering, RUET, Bangladesh
-  - *Email:* abusayeed.cse@gmail.com
 </div>
