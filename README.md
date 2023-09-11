@@ -108,7 +108,7 @@
 </div>  
 
 <div>
-  <div>
+  <div align = 'center'>
   **MD. AL SIAM**<br/>
   **Location:** Dhaka, Bangladesh<br/>
   **Email:** md.al.siam.008@gmail.com<br/>
