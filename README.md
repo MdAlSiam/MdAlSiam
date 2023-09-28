@@ -14,8 +14,9 @@
 **WORK EXPERIENCE**
 - *Lecturer in CSE at Northern University Bangladesh*
   - *Duration:* April 2023 – Present
-  - Conducted classes for Database Management System, Discrete Mathematics, and Data Structures
+  - Conducted classes for Object Oriented Programming, Database Management Systems, Discrete Mathematics, and Data Structures
   - Supervised Software Development Projects and demonstrated strong project management skills
+  - Mentored competitive programming and coached teams of competitive programmers  
   - Graded lab reports, notebooks; conducted and graded midterm and final course and lab examinations
 
 - *Software Engineer at Enosis Solutions*
