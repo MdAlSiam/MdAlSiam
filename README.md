@@ -12,13 +12,6 @@
   - *Duration:* 2017-2022
 
 **WORK EXPERIENCE**
-- *Lecturer in CSE at Northern University Bangladesh*
-  - *Duration:* April 2023 – Present
-  - Conducted classes for Object Oriented Programming, Database Management Systems, Discrete Mathematics, and Data Structures
-  - Supervised Software Development Projects and demonstrated strong project management skills
-  - Mentored competitive programming and coached teams of competitive programmers  
-  - Graded lab reports, notebooks; conducted and graded midterm and final course and lab examinations
-
 - *Software Engineer at Enosis Solutions*
   - *Duration:* October 2022 – March 2023
   - Developed full-stack web applications with ASP.NET, AngularJS, Javascript, and MSSQL
