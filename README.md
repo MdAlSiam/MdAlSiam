@@ -8,7 +8,7 @@
 **EDUCATION**
 - *B.Sc in Computer Science & Engineering*
   - Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh
-  - *CGPA:* 3.27 (Scale: 4.00)
+  - *Grade:* First Class
   - *Duration:* 2017-2022
 
 **WORK EXPERIENCE**
