@@ -80,13 +80,3 @@
 - English: Full Professional Proficiency
 - Bengali: Native or Bilingual Proficiency
 </div>
-
-<h3 align="center"> GitHub Stats: </h3>
- <div align="center">
-    <!-- github streak start -->
-    <img width=420 src="https://github-readme-stats-7crm.vercel.app/api?username=MdAlSiam&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&icon_color=FA8B00" alt="MdAlSiam" />
-    <!-- github streak end -->
-    <!-- github stats start -->
-    <img width=420 src="https://streak-stats.demolab.com?user=MdAlSiam&theme=dark&hide_border=true&count_private=true&background=0D1117" />
-    <!-- github stats end -->
-</div>
