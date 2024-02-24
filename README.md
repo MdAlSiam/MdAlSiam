@@ -1,6 +1,6 @@
  <div>
   <div align = 'center'>
-  <strong><h1>MD. AL SIAM</h1><strong/><br/>
+  <strong><h1>MD AL SIAM</h1><strong/><br/>
   <strong>Current Location: </strong> Dhaka, Bangladesh<br/>
   <strong>Email: </strong><a href="mailto:md.al.siam.008@gmail.com">md.al.siam.008@gmail.com</a> <br/>
   </div>
