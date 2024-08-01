@@ -6,12 +6,17 @@
   </div>
 
 **EDUCATION**
+- *M.Sc in Electrical Engineering*
+  - Tuskegee University, Tuskegee, AL 36088, USA
+  - *Duration:* 2024-Present
 - *B.Sc in Computer Science & Engineering*
   - Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh
   - *Grade:* First Class
   - *Duration:* 2017-2022
 
 **WORK EXPERIENCE**
+- *Graduate Research Assistant at Tuskegee University*
+  - *Duration:* June 2024 - Present
 - *Lecturer in CSE at Northern University Bangladesh*
   - *Duration:* August 2023 - December 2023
   - Conducted classes for Data Structures, Object Oriented Programming, Database Management Systems, and Discrete Mathematics
