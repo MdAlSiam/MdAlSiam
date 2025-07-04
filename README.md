@@ -1,94 +1,152 @@
- <div>
-  <div align = 'center'>
-  <strong><h1>MD AL SIAM</h1><strong/><br/>
-  <strong>Current Location: </strong> Tuskegee, Alabama <br/>
-  <strong>Email: </strong><a href="mailto:md.al.siam.008@gmail.com">md.al.siam.008@gmail.com</a> <br/>
-  </div>
+ 
 
-**EDUCATION**
-- *M.Sc in Electrical Engineering*
-  - Tuskegee University, Tuskegee, AL 36088, USA
-  - *Duration:* 2024-Present
-- *B.Sc in Computer Science & Engineering*
-  - Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh
-  - *Grade:* First Class
-  - *Duration:* 2017-2022
+# Hi there, I'm Md Al Siam! 👋
 
-**WORK EXPERIENCE**
-- *Graduate Research Assistant at Tuskegee University*
-  - *Duration:* June 2024 - Present
-- *Lecturer in CSE at Northern University Bangladesh*
-  - *Duration:* August 2023 - December 2023
-  - Conducted classes for Data Structures, Object Oriented Programming, Database Management Systems, and Discrete Mathematics
-  - Coached competitive programming teams, with one team qualifying for the International Collegiate Programming Contest - Dhaka Regional 2023
-  - Supervised Software Development Projects with good decision-making ability in project management
-  - Graded lab reports and notebooks; conducted and graded midterm and final course and lab examinations
+<div align="center">
+  
+[![MSc Student](https://img.shields.io/badge/MSc-Electrical%20Engineering-blue?style=for-the-badge&logo=graduation-cap)](https://www.tuskegee.edu/)
+[![PhD Applicant](https://img.shields.io/badge/PhD%20Applicant-Fall%202026-green?style=for-the-badge&logo=academic-cap)](https://mdalsiam.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7MEjJ1IAAAAJ)
 
-- *Software Engineer at Enosis Solutions*
-  - *Duration:* October 2022 – March 2023
-  - Developed full-stack web applications with ASP.NET, AngularJS, Javascript, and MSSQL
-  - Conducted in-depth analysis and research of client's requirements, implemented, and tested solutions
-  - Performed root cause analysis of bugs on existing projects and made stable fixes
+</div>
 
-- *AI Research Assistant (Part-time) at MyMedicalHub*
-  - *Duration:* October 2020 – March 2022
-  - Researched musculoskeletal patterns and range of motion using Signal Processing Methods, Computer Vision, and Deep Learning
-  - Developed projects with Python and Django REST Framework, adhering to software engineering standards
-  - Deployed projects using Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3)
-  - Developed a novel angle drawing method using OpenCV, improving performance by over 50%
-  - Proposed two novel ML-based gait abnormality detection frameworks and initiated the 'Intelligent Gait and Balance System' project
-  - Prepared datasets for custom-trained models, created test cases for APIs, and provided impactful feedback
-  - Prepared patents for research outcomes and findings
+## 🔬 About Me
 
-**PUBLICATIONS**
-- *Deep Learning Based Air-Writing Recognition with the Choice of Proper Interpolation Technique*
-  - Sensors, 21(24), p.8407
-  - *Q2, Impact Factor:* 3.847
+I'm a passionate **AI Researcher** and **MSc student** at Tuskegee University, specializing in **Self-Supervised Learning** and **Computer Vision**. Currently working on advancing Synthetic Aperture Radar (SAR) target recognition through innovative machine learning approaches as part of the NSF AI Institute collaboration.
 
-- *Gait Recognition with Wearable Sensors using Modified Residual Block-based Lightweight CNN*
-  - IEEE Access
-  - *Q1, Impact Factor:* 3.476
+**🎯 Current Research Focus:** Developing novel self-supervised learning frameworks for automatic radar target recognition with multi-task pretext training methodologies.
 
-**SKILLS**
-- **Programming Languages:** C/C++, Python, C#, Javascript
-- **Frameworks:** Django REST Framework, Tensorflow, Keras
-- **Data Science:** Machine Learning, Deep Learning, Computer Vision, Natural Language Processing
-- **Databases:** MySQL, MSSQL
-- **Software Engineering Tools:** Git, GitHub, Sourcetree, Azure, Postman, Jira
-- **Familiar:** Algorithms, Linux, Latex, Java, HTML, CSS, Typescript, ASP.NET MVC, ASP.NET Web API
+---
 
-**PROGRAMMING CONTEST EXPERIENCE**
-- 8th at VU CSE Tech Fest 2019 out of 43 teams
-- 52nd at Technocracy 2019, RUET out of 96 teams
-- 18th at RUET GyanJam 2018 out of 48 teams
+## 🚀 Research Interests
 
-**PROGRAMMING PROBLEM SOLVING EXPERIENCE**
-- 400+ problems solved on LeetCode (Profile: _siummy)
-- 950+ problems solved on CodeForces (Profile: _siummy)
-- Participated in 150+ rated contests on CodeForces (Maximum Rating: Specialist, 1443)
+```python
+research_areas = {
+    "Computer Vision": ["Self-Supervised Learning", "Representation Learning"],
+    "AI Applications": ["Healthcare AI", "SAR Target Recognition", "Gait Analysis"],
+    "Human-Computer Interaction": ["Pose Estimation", "Activity Recognition"],
+    "Natural Language Processing": ["Vision-Language Models"]
+}
+```
 
-**ACADEMIC THESIS & PROJECTS**
-- *Realistic Activity Recognition using Sensors with Deep Convolutional Neural Network*
-  - Developed a deep-CNN-based human activity recognition (HAR) model for efficient use of signals from IoT sensors
-  - Tools: Python, Keras, Deep Learning
+---
 
-- *Question Answer Website*
-  - Created a question-answer community website with upvote and downvote features
-  - Tools: HTML, CSS, PHP
+## 🎓 Education & Experience
 
-**INDEPENDENT COURSEWORKS**
-- Neural Networks and Deep Learning, Coursera
-- Structuring Machine Learning Projects, Coursera
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization, Coursera
-- Convolutional Neural Networks, Coursera
+- **🎓 MSc Electrical Engineering** | Tuskegee University (2024-2026) | **GPA: 4.00/4.00**
+- **🎓 BSc Computer Science & Engineering** | RUET, Bangladesh (2017-2022)
+- **👨‍💼 Software Engineer** | Samsung R&D Institute Bangladesh (2024)
+- **👨‍🔬 AI Research Assistant** | MyMedicalHub International (2020-2022)
+- **👨‍🏫 Lecturer** | Northern University Bangladesh (2023)
 
-**VOLUNTEERING EXPERIENCE**
-- Member, Machine Learning Research Group of RUET (March 2020 - October 2022)
-- Member, RUET Analytical Programming Lab (March 2017 - October 2022)
-- Assistant Finance Secretary, RUET Greater Mymensingh Association, RUET (April 2018 - May 2019)
-- Organizing Volunteer, RUET CSE Fest 2K22 Inter University Programming Contest (2022)
+---
 
-**LANGUAGES**
-- English: Full Professional Proficiency
-- Bengali: Native or Bilingual Proficiency
+## 📊 Recent Achievements
+
+🏆 **IEEE SoutheastCon 2025** - Top 5 Best Paper Finalist  
+💰 **Master's Graduate Scholarship** - $76,000 from Tuskegee University  
+📄 **Publications in IEEE Access & Sensors** - Multiple peer-reviewed papers  
+🎯 **89.78% Accuracy** - SAR Target Recognition with novel self-supervised approach  
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Web & Cloud
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Featured Projects
+
+### 🎯 [SAR Target Recognition](https://github.com/MdAlSiam/ssl-sar-atr)
+**Self-supervised learning framework for SAR Automatic Target Recognition**
+- 🔹 Multi-task pretext training with 9 complementary transformation tasks
+- 🔹 89.78% accuracy with SVM classifier
+- 🔹 Outperforms traditional synthetic data methods
+- **Tech Stack:** PyTorch, OpenCV, scikit-learn
+
+### 🏥 [Automated Range of Motion Analysis]()
+**AI-powered range of motion measurement for telehealth**
+- 🔹 200+ active and passive exercises integration
+- 🔹 Pose estimation with 50% improved inference time
+- 🔹 AWS EC2/S3 distributed architecture
+- **Tech Stack:** Python, OpenCV, Django REST, AWS
+
+### 🚶 [Intelligent Gait Analysis System]()
+**Advanced gait abnormality detection using deep learning**
+- 🔹 Multiple abnormal gait pattern analysis (Antalgic, Ataxic, Hemiplegic, etc.)
+- 🔹 Signal-based pose estimation techniques
+- 🔹 Patent-pending solution
+- **Tech Stack:** TensorFlow, OpenCV, Signal Processing
+
+### ✍️ [Air-Writing Recognition]()
+**Innovative air-writing recognition with variable signal length handling**
+- 🔹 Up to 100% accuracy on digit recognition
+- 🔹 Novel interpolation techniques
+- 🔹 Outperforms state-of-the-art methods
+- **Tech Stack:** Python, Deep Learning, Signal Processing
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAlSiam&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAlSiam&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-mdalsiam.github.io-blue?style=for-the-badge&logo=globe)](https://mdalsiam.github.io)
+[![Email](https://img.shields.io/badge/Email-msiam0229@tuskegee.edu-red?style=for-the-badge&logo=gmail)](mailto:msiam0229@tuskegee.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdalsiam-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdalsiam)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-7MEjJ1IAAAAJ-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=7MEjJ1IAAAAJ)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Advancing AI through self-supervised learning - making machine learning more accessible and efficient"
+
+**🔭 Currently seeking PhD opportunities in Computer Science for Fall 2026**
+
+![Profile Views](https://komarev.com/ghpv/?username=mdalsiam&color=blueviolet&style=for-the-badge)
+
 </div>
