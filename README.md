@@ -41,15 +41,6 @@ research_areas = {
 
 ---
 
-## 📊 Recent Achievements
-
-🏆 **IEEE SoutheastCon 2025** - Top 5 Best Paper Finalist  
-💰 **Master's Graduate Scholarship** - $76,000 from Tuskegee University  
-📄 **Publications in IEEE Access & Sensors** - Multiple peer-reviewed papers  
-🎯 **89.78% Accuracy** - SAR Target Recognition with novel self-supervised approach  
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -83,51 +74,6 @@ research_areas = {
 
 ---
 
-## 📈 Featured Projects
-
-### 🎯 [SAR Target Recognition](https://github.com/MdAlSiam/ssl-sar-atr)
-**Self-supervised learning framework for SAR Automatic Target Recognition**
-- 🔹 Multi-task pretext training with 9 complementary transformation tasks
-- 🔹 89.78% accuracy with SVM classifier
-- 🔹 Outperforms traditional synthetic data methods
-- **Tech Stack:** PyTorch, OpenCV, scikit-learn
-
-### 🏥 [Automated Range of Motion Analysis]()
-**AI-powered range of motion measurement for telehealth**
-- 🔹 200+ active and passive exercises integration
-- 🔹 Pose estimation with 50% improved inference time
-- 🔹 AWS EC2/S3 distributed architecture
-- **Tech Stack:** Python, OpenCV, Django REST, AWS
-
-### 🚶 [Intelligent Gait Analysis System]()
-**Advanced gait abnormality detection using deep learning**
-- 🔹 Multiple abnormal gait pattern analysis (Antalgic, Ataxic, Hemiplegic, etc.)
-- 🔹 Signal-based pose estimation techniques
-- 🔹 Patent-pending solution
-- **Tech Stack:** TensorFlow, OpenCV, Signal Processing
-
-### ✍️ [Air-Writing Recognition]()
-**Innovative air-writing recognition with variable signal length handling**
-- 🔹 Up to 100% accuracy on digit recognition
-- 🔹 Novel interpolation techniques
-- 🔹 Outperforms state-of-the-art methods
-- **Tech Stack:** Python, Deep Learning, Signal Processing
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAlSiam&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAlSiam&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -146,7 +92,5 @@ research_areas = {
 ### 💡 "Advancing AI through self-supervised learning - making machine learning more accessible and efficient"
 
 **🔭 Currently seeking PhD opportunities in Computer Science for Fall 2026**
-
-![Profile Views](https://komarev.com/ghpv/?username=mdalsiam&color=blueviolet&style=for-the-badge)
 
 </div>
